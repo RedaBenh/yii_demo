@@ -1,0 +1,421 @@
+2012/07/29 19:59:44 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:44 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:45 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:47 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:47 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:50 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:52 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:52 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:56 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:56 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:56 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:57 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:57 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:58 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:59 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 19:59:59 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:00 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:00 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:00 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:00 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:00 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:03 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:03 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:04 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:04 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:05 [info] [application.controllers.SiteController] Successful login of user: 4
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (89)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:05 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:05 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:07 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:07 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:08 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:09 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:09 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:00:58 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:08 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:09 [trace] [system.caching.CApcCache] Serving "TrackStar.ProjectListing.SystemMessage" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (103)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:09 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (42)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:09 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.nbcc83j153qrl2tqh6d87q4t86..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:14 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:14 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.nbcc83j153qrl2tqh6d87q4t86..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:16 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:16 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:16 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.nbcc83j153qrl2tqh6d87q4t86..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:17 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:17 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.nbcc83j153qrl2tqh6d87q4t86..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:18 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:19 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:19 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:22 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:22 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:23 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:23 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:25 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:25 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:26 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:26 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:27 [info] [application.controllers.SiteController] Successful login of user: 5
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (89)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:27 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:28 [trace] [system.caching.CApcCache] Serving "TrackStar.ProjectListing.SystemMessage" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (103)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:28 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (35)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:28 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.1pvjp5ve7kkhol5g0igqe7rh74..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:30 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:30 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.1pvjp5ve7kkhol5g0igqe7rh74..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:30 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:31 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:32 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:32 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:32 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.1pvjp5ve7kkhol5g0igqe7rh74..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:33 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:33 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:33 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.1pvjp5ve7kkhol5g0igqe7rh74..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:33 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:33 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:35 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:35 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:36 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:36 [trace] [application.controllers.SiteController] The actionLogin() method is being requested
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (71)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:37 [info] [application.controllers.SiteController] Successful login of user: 4
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\SiteController.php (89)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:37 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:38 [trace] [system.caching.CApcCache] Serving "TrackStar.ProjectListing.SystemMessage" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (103)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:38 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (35)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:38 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:40 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:40 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:40 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:42 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:42 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:42 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:01:42 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:20 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:21 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:22 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:22 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:23 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (147)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:23 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_sys_message" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (22)
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (109)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+2012/07/29 20:07:23 [trace] [system.caching.CApcCache] Saving "TrackStar.ProjectListing.SystemMessage" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (115)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:23 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:07:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (121)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:07:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\components\views\recentComments.php (4)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:07:24 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (42)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:24 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:25 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:26 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Project.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (194)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (70)
+2012/07/29 20:07:26 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (75)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:26 [trace] [system.web.auth.CDbAuthManager] Checking permission "createUser"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:26 [trace] [system.web.auth.CDbAuthManager] Checking permission "owner"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:26 [trace] [system.web.auth.CDbAuthManager] Checking permission "admin"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:07:26 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\issue\_view.php (25)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (48)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+2012/07/29 20:07:26 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (55)
+2012/07/29 20:08:56 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (147)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Serving "TrackStar.ProjectListing.SystemMessage" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (103)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (121)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\components\views\recentComments.php (4)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (42)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:08:57 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:01 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:02 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Project.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (194)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (70)
+2012/07/29 20:09:02 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (75)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:02 [trace] [system.web.auth.CDbAuthManager] Checking permission "createUser"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:02 [trace] [system.web.auth.CDbAuthManager] Checking permission "owner"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:02 [trace] [system.web.auth.CDbAuthManager] Checking permission "admin"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:02 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\issue\_view.php (25)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (48)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+2012/07/29 20:09:02 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (55)
+2012/07/29 20:09:03 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:04 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (178)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:07 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:08 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (178)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:11 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:12 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (178)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:15 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/29 20:09:16 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (178)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:22 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (147)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_sys_message" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (22)
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (109)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "TrackStar.ProjectListing.SystemMessage" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\modules\admin\models\SysMessage.php (115)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (153)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (121)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\components\views\recentComments.php (4)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (40)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.TrackStar.ProjectListing.RecentComments..project/index...." to cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\index.php (42)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (171)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:24 [trace] [system.caching.CApcCache] Saving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." to cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:32 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:33 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_project" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Project.php (23)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (194)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (70)
+2012/07/30 03:43:33 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_issue" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (75)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:33 [trace] [system.web.auth.CDbAuthManager] Checking permission "createUser"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:33 [trace] [system.web.auth.CDbAuthManager] Checking permission "owner"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:33 [trace] [system.web.auth.CDbAuthManager] Checking permission "admin"
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (15)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:34 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_user" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\views\issue\_view.php (25)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (48)
+in C:\Yii\xampp\htdocs\trackstar\protected\controllers\ProjectController.php (81)
+2012/07/30 03:43:34 [trace] [system.caching.CApcCache] Serving "yii:dbschemamysql:host=localhost;dbname=trackstar_dev:root:tbl_comment" from cache
+in C:\Yii\xampp\htdocs\trackstar\protected\models\Comment.php (27)
+in C:\Yii\xampp\htdocs\trackstar\protected\components\RecentComments.php (14)
+in C:\Yii\xampp\htdocs\trackstar\protected\views\project\view.php (55)
+2012/07/30 03:43:40 [trace] [system.caching.CApcCache] Serving "Yii.CUrlManager.rules" from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)
+2012/07/30 03:43:40 [trace] [system.caching.CApcCache] Serving "Yii.COutputCache.yw0..project/index.56mtg77ieoeituqi3lbjt1ogi4..." from cache
+in C:\Yii\xampp\htdocs\trackstar\index.php (13)

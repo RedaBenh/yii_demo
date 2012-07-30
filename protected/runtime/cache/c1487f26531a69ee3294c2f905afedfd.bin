@@ -1,0 +1,334 @@
+a:2:{i:0;a:2:{i:0;s:7473:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/trackstar/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/trackstar/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/trackstar/css/ie.css" media="screen, projection" />
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="/trackstar/themes/new/css/main.css" />
+	<link rel="stylesheet" type="text/css" href="/trackstar/css/form.css" />
+
+	<link rel="alternate" type="application/rss+xml" href="/trackstar/comment/feed" />
+<link rel="stylesheet" type="text/css" href="/trackstar/assets/f51ee56e/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/trackstar/assets/3f87a540/pager.css" />
+<script type="text/javascript" src="/trackstar/assets/e193c4ba/jquery.js"></script>
+<script type="text/javascript" src="/trackstar/assets/e193c4ba/jquery.ba-bbq.js"></script>
+<title>TrackStar - Project</title>
+</head>
+
+<body>
+
+<div class="container" id="page">
+
+	<div id="header">
+		
+	</div><!-- header -->
+
+	<div id="mainmenu">
+		<ul id="yw6">
+<li><a href="/trackstar/project">Projects</a></li>
+<li><a href="/trackstar/site/page?view=about">About</a></li>
+<li><a href="/trackstar/site/contact">Contact</a></li>
+<li><a href="/trackstar/site/logout">Logout (admin)</a></li>
+</ul>	</div><!-- mainmenu -->
+			<div class="breadcrumbs">
+<a href="/trackstar/project">Home</a> &raquo; <span>Projects</span></div><!-- breadcrumbs -->
+	
+	<div class="span-19">
+	<div id="content">
+		
+    <div class="sys-message">
+        ici l'admin , ca va?    </div>
+    
+<h1>Projects</h1>
+
+<div id="yw1" class="list-view">
+<div class="summary">Displaying 1-9 of 9 result(s).</div>
+
+<div class="items">
+<div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/1">1</a>	<br />
+
+	<b>Name:</b>
+	Test Project 1	<br />
+
+	<b>Description:</b>
+	Test project number one	<br />
+
+	<b>Create Time:</b>
+	2010-01-01 00:00:00	<br />
+
+	<b>Create User:</b>
+	1	<br />
+
+	<b>Update Time:</b>
+	2010-01-01 00:00:00	<br />
+
+	<b>Update User:</b>
+	1	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/5">5</a>	<br />
+
+	<b>Name:</b>
+	test add from UI	<br />
+
+	<b>Description:</b>
+	test Ui add	<br />
+
+	<b>Create Time:</b>
+	0000-00-00 00:00:00	<br />
+
+	<b>Create User:</b>
+		<br />
+
+	<b>Update Time:</b>
+	0000-00-00 00:00:00	<br />
+
+	<b>Update User:</b>
+		<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/6">6</a>	<br />
+
+	<b>Name:</b>
+		<br />
+
+	<b>Description:</b>
+		<br />
+
+	<b>Create Time:</b>
+	0000-00-00 00:00:00	<br />
+
+	<b>Create User:</b>
+		<br />
+
+	<b>Update Time:</b>
+	0000-00-00 00:00:00	<br />
+
+	<b>Update User:</b>
+		<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/7">7</a>	<br />
+
+	<b>Name:</b>
+	SOS Cocktail	<br />
+
+	<b>Description:</b>
+	recette de cocktail pour Android	<br />
+
+	<b>Create Time:</b>
+	0000-00-00 00:00:00	<br />
+
+	<b>Create User:</b>
+		<br />
+
+	<b>Update Time:</b>
+	2012-07-25 23:59:03	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/8">8</a>	<br />
+
+	<b>Name:</b>
+	test date	<br />
+
+	<b>Description:</b>
+	ddsaattee	<br />
+
+	<b>Create Time:</b>
+	2012-07-22 13:44:54	<br />
+
+	<b>Create User:</b>
+		<br />
+
+	<b>Update Time:</b>
+	2012-07-25 23:58:37	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/9">9</a>	<br />
+
+	<b>Name:</b>
+	sds	<br />
+
+	<b>Description:</b>
+	qds	<br />
+
+	<b>Create Time:</b>
+	2012-07-22 14:30:42	<br />
+
+	<b>Create User:</b>
+	4	<br />
+
+	<b>Update Time:</b>
+	2012-07-25 23:58:07	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/10">10</a>	<br />
+
+	<b>Name:</b>
+	testAddUser	<br />
+
+	<b>Description:</b>
+	test add user im owner	<br />
+
+	<b>Create Time:</b>
+	2012-07-24 20:36:38	<br />
+
+	<b>Create User:</b>
+	4	<br />
+
+	<b>Update Time:</b>
+	2012-07-25 23:55:51	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/11">11</a>	<br />
+
+	<b>Name:</b>
+	qs	<br />
+
+	<b>Description:</b>
+	QS	<br />
+
+	<b>Create Time:</b>
+	2012-07-25 23:59:18	<br />
+
+	<b>Create User:</b>
+	4	<br />
+
+	<b>Update Time:</b>
+	2012-07-25 23:59:18	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div><div class="view">
+
+	<b>ID:</b>
+	<a href="/trackstar/project/12">12</a>	<br />
+
+	<b>Name:</b>
+	test cachce index project	<br />
+
+	<b>Description:</b>
+	boldaloakjjed	<br />
+
+	<b>Create Time:</b>
+	2012-07-29 18:42:57	<br />
+
+	<b>Create User:</b>
+	4	<br />
+
+	<b>Update Time:</b>
+	2012-07-29 18:42:57	<br />
+
+	<b>Update User:</b>
+	4	<br />
+
+</div></div>
+<div class="keys" style="display:none" title="/trackstar/project"><span>1</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span><span>11</span><span>12</span></div>
+</div>
+time to check cache : 1343580914<div class="portlet" id="yw3">
+<div class="portlet-decoration">
+<div class="portlet-title">Recent Comments</div>
+</div>
+<div class="portlet-content">
+<ul>
+            <div class="author">
+            admin added a comment.
+        </div>
+        <div class="issue">
+            <a href="/trackstar/issue/11">sqd</a>        </div>
+            <div class="author">
+            admin added a comment.
+        </div>
+        <div class="issue">
+            <a href="/trackstar/issue/10">test issue cache 2</a>        </div>
+            <div class="author">
+            admin added a comment.
+        </div>
+        <div class="issue">
+            <a href="/trackstar/issue/9">new issue test cache</a>        </div>
+            <div class="author">
+            admin added a comment.
+        </div>
+        <div class="issue">
+            <a href="/trackstar/issue/8">teqsdf</a>        </div>
+            <div class="author">
+            admin added a comment.
+        </div>
+        <div class="issue">
+            <a href="/trackstar/issue/8">teqsdf</a>        </div>
+    </ul>
+</div>
+</div>	</div><!-- content -->
+</div>
+<div class="span-5 last">
+	<div id="sidebar">
+	<div class="portlet" id="yw4">
+<div class="portlet-decoration">
+<div class="portlet-title">Operations</div>
+</div>
+<div class="portlet-content">
+<ul class="operations" id="yw5">
+<li><a href="/trackstar/project/create">Create Project</a></li>
+<li><a href="/trackstar/project/admin">Manage Project</a></li>
+</ul></div>
+</div>	</div><!-- sidebar -->
+</div>
+
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2012 by TrackStar.<br/>
+		All Rights Reserved.<br/>
+		Powered by <a href="http://www.yiiframework.com/" rel="external">Yii Framework</a>.	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/trackstar/assets/f51ee56e/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+$(".sys-message").animate({opacity: 1.0}, 2000).fadeOut("slow");
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter'});
+});
+/*]]>*/
+</script>
+</body>
+</html>
+";i:1;a:8:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerLinkTag";i:2;a:3:{i:0;s:9:"alternate";i:1;s:19:"application/rss+xml";i:2;s:23:"/trackstar/comment/feed";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:6:"jquery";}}i:2;a:3:{i:0;s:12:"clientScript";i:1;s:14:"registerScript";i:2;a:2:{i:0;s:17:"fadeAndHideEffect";i:1;s:64:"$(".sys-message").animate({opacity: 1.0}, 2000).fadeOut("slow");";}}i:3;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:46:"/trackstar/assets/f51ee56e/listview/styles.css";}}i:4;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:3:"bbq";}}i:5;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:2:{i:0;s:57:"/trackstar/assets/f51ee56e/listview/jquery.yiilistview.js";i:1;i:2;}}i:6;a:3:{i:0;s:12:"clientScript";i:1;s:14:"registerScript";i:2;a:2:{i:0;s:13:"CListView#yw1";i:1;s:147:"jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter'});";}}i:7;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:36:"/trackstar/assets/3f87a540/pager.css";}}}}i:1;N;}
