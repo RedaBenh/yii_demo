@@ -52,11 +52,14 @@ return array(
         // uncomment the following to use a MySQL database
 
         'db' => array(
-            'connectionString' => 'mysql:host=localhost;dbname=trackstar_dev',
+            //'connectionString' => 'mysql:host=localhost;dbname=trackstar_dev',
+            'connectionString' => 'mysql:host=mysql-shared-02.phpfog.com;dbname=rwinayii_phpfogapp_com',
             'class' => 'CDbConnection',
             'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => 'scoupi',
+            //'username' => 'root',
+            //'password' => 'scoupi',
+            'username' => 'rwina36-34-51534',
+            'password' => 'yU17R77M22Vq',
             'charset' => 'utf8',
             'schemaCachingDuration' => 60,
         ),
